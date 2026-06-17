@@ -2,7 +2,7 @@
 import { useState, useEffect, useCallback, useRef } from "react";
  
 // ── PUT YOUR POLYGON.IO API KEY HERE ─────────────────────────────────────────
-const POLYGON_API_KEY = "SI1LTulNdkjC2D_nwPDHOXtz7MKlltWB"
+const POLYGON_API_KEY = "SI1LTulNdkjC2D_nwPDHOXtz7MKlltWB";
 // ─────────────────────────────────────────────────────────────────────────────
  
 const DEFAULT_CRITERIA = {
